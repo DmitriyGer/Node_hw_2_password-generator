@@ -1,5 +1,5 @@
 {
-    "name": "password-generator",
+    "name": "dmitriy-password-gen",
     "version": "1.0.0",
     "description": "A library for generating random and secure passwords.",
     "main": "index.js",
@@ -16,9 +16,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yourusername/password-generator"
+        "url": "https://github.com/DmitriyGer/Node_hw_2_password-generator.git"
     },
     "dependencies": {
+        "dmitriy-password-gen": "file:",
         "password-generator": "file:"
     }
 }
